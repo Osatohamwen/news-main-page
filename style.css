@@ -210,6 +210,10 @@ div.dark-blue{
     .container{
         width: 80%;
     }
+    .content, .bright-future{
+        display: flex;
+        flex-direction: row;
+    }
 }
 @media (min-width: 1280px){
     main{
